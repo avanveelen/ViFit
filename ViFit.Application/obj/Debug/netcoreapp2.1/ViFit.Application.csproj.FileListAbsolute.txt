@@ -1,0 +1,9 @@
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\bin\Debug\netcoreapp2.1\ViFit.Application.deps.json
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\bin\Debug\netcoreapp2.1\ViFit.Application.dll
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\obj\Debug\netcoreapp2.1\ViFit.Application.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\obj\Debug\netcoreapp2.1\ViFit.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\obj\Debug\netcoreapp2.1\ViFit.Application.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\obj\Debug\netcoreapp2.1\ViFit.Application.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\bin\Debug\netcoreapp2.1\ViFit.Application.pdb
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\obj\Debug\netcoreapp2.1\ViFit.Application.dll
+C:\Users\Alexander\source\repos\ViFit\ViFit.Application\obj\Debug\netcoreapp2.1\ViFit.Application.pdb

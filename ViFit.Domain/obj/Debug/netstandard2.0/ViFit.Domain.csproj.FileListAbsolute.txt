@@ -1,0 +1,9 @@
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\bin\Debug\netstandard2.0\ViFit.Domain.deps.json
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\bin\Debug\netstandard2.0\ViFit.Domain.dll
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\obj\Debug\netstandard2.0\ViFit.Domain.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\obj\Debug\netstandard2.0\ViFit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\obj\Debug\netstandard2.0\ViFit.Domain.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\obj\Debug\netstandard2.0\ViFit.Domain.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\bin\Debug\netstandard2.0\ViFit.Domain.pdb
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\obj\Debug\netstandard2.0\ViFit.Domain.dll
+C:\Users\Alexander\source\repos\ViFit\ViFit.Domain\obj\Debug\netstandard2.0\ViFit.Domain.pdb
